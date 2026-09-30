@@ -1,0 +1,10 @@
+width = float(input("Please enter the width: "))
+length = float(input("Please enter the length: "))
+
+area = width * length
+perimeter = 2 * (width + length)
+
+print("Calculation Results")
+print("Area =", area)
+print("Perimeter =", perimeter)
+print("ผู้เขียนโปรแกรมคือ นางสาว มุกตาภา นางาม ม.6/8 เลขที่36")
